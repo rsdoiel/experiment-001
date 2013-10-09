@@ -16,9 +16,10 @@
     "url": "https://github.com/rsdoiel/experiment-001/issues"
   },
   "devDependencies": {
+    "grunt": "~0.4.1",
     "grunt-contrib-uglify": "~0.2.4",
     "grunt-contrib-cssmin": "~0.6.2",
-    "grunt-contrib-csslint": "~0.1.2"
+    "grunt-contrib-csslint": "~0.1.2",
     "grunt-jslint": "~1.1.1",
     "grunt-csscss": "~0.6.1"
   }
