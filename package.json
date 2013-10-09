@@ -1,0 +1,25 @@
+{
+  "name": "experiment-001.local",
+  "version": "0.0.0",
+  "description": "Just a site to test ideas.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rsdoiel/experiment-001.git"
+  },
+  "author": "R. S. Doiel, <rsdoiel@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rsdoiel/experiment-001/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-cssmin": "~0.6.2",
+    "grunt-contrib-csslint": "~0.1.2"
+    "grunt-jslint": "~1.1.1",
+    "grunt-csscss": "~0.6.1"
+  }
+}
