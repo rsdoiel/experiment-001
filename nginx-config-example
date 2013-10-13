@@ -1,5 +1,5 @@
 #
-# Static web services via 127.0.0.*
+# Static web server
 #
 server {
     listen experiment-001.local:80;
